@@ -104,7 +104,7 @@ CoinTether/
 **Software:**  
 - OS: Windows 10 or above  
 - Tools: Visual Studio Code (with Python), Chrome Browser, PyInstaller  
-- Languages: Python, SQL, Dart (optional mobile integration)
+- Languages: Python, SQL
 
 ---
 
